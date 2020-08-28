@@ -1,5 +1,8 @@
 ## Emily Page's First CS193 Homework
-
+Things I love about 193:
+- It's run by students!
+- It seemes easier than cs180 :)
+- It involves coding!!!
 
 
 ## Welcome to GitHub Pages
